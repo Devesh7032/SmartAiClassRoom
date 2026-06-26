@@ -437,6 +437,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👤 Author
 
 *   **Name**: Devesh V
-*   **GitHub**: [@deveshv](https://github.com/Devesh7032)
+*   **GitHub**: https://github.com/Devesh7032
 *   **LinkedIn**: https://www.linkedin.com/in/devesh-v-4b6498329?utm_source=share_via&utm_content=profile&utm_medium=member_android
 *   **Email**: deveshv7661@gmail.com
