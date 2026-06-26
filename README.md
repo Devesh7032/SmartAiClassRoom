@@ -1,3 +1,4 @@
+
 # 🎓 SmartClass AI
 
 SmartClass AI is an AI-powered virtual classroom platform featuring real-time video conferencing, a full WebRTC communication grid, and an **Agentic AI Teaching Assistant**. The platform continuously analyzes student engagement, tracks attendance, transcribes classroom discussions, and automatically moderates disruptive background noise to protect the learning environment.
@@ -381,17 +382,29 @@ SmartClass AI implements an agentic design comprising **8 cooperating virtual as
 
 Below are screenshots demonstrating key screens inside the SmartClass AI platform:
 
-### 1. Login & Registration
-![Login Screen](screenshots/login.png)
+### 1. Host DashBoard
+<img width="1911" height="912" alt="Screenshot 2026-06-26 173834" src="https://github.com/user-attachments/assets/bb625ba4-972f-425b-85d2-4e55cfbcc8bc" />
 
-### 2. Classroom Lobby (Dashboard)
-![Lobby Screen](screenshots/lobby.png)
+### 2. Student DashBoard
+<img width="1918" height="917" alt="Screenshot 2026-06-26 174000" src="https://github.com/user-attachments/assets/22a84f15-7514-4073-b86d-7cddc26a0615" />
 
-### 3. Classroom Meeting Room (WebRTC Calling Grid)
-![Meeting Room](screenshots/meeting_room.png)
 
-### 4. Teacher AI Dashboard & Post-Class Report
-![AI Dashboard and Report](screenshots/report.png)
+### 3. Agent Work
+<img width="1917" height="915" alt="Screenshot 2026-06-26 174118" src="https://github.com/user-attachments/assets/44f56d53-1573-4bc2-b15d-e5fa35db7ce7" />
+
+
+### 4. Ai Analysis
+<img width="468" height="701" alt="Screenshot 2026-06-26 174345" src="https://github.com/user-attachments/assets/ae72abf7-f6d0-448a-849f-c7a062fdae0e" />
+<img width="432" height="610" alt="Screenshot 2026-06-26 174438" src="https://github.com/user-attachments/assets/1d2fa791-0c96-42c9-9d51-8788b97daee4" />
+<img width="877" height="833" alt="Screenshot 2026-06-26 174527" src="https://github.com/user-attachments/assets/b641ca60-9a1b-428c-8837-a5b1f53e3aa6" />
+
+### 5.Post Class Report
+<img width="1907" height="911" alt="Screenshot 2026-06-26 174704" src="https://github.com/user-attachments/assets/c8db0006-3b84-427f-b929-82890b0fd858" />
+
+
+
+
+
 
 ---
 
