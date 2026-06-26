@@ -377,17 +377,21 @@ SmartClass AI implements an agentic design comprising **8 cooperating virtual as
 
 ---
 
-## 🖼️ User Interface Mockups
+## 🖼️ Screenshots
 
-Below are placeholder layouts demonstrating key screens inside the SmartClass AI platform:
+Below are screenshots demonstrating key screens inside the SmartClass AI platform:
 
-| Screen | Description | Layout Preview |
-| :--- | :--- | :--- |
-| **Login / Register** | Secure Portal | `[ Email Input ] -> [ Password Input ] -> [ Join Button ]` |
-| **Lobby Controls** | Room Dashboard | `[ Prof. Name ] -> [ Create Classroom Input ] -> [ Active Link ]` |
-| **Call Room Grid** | Full Media Grid | `┌───────────────────┬───────────────────┐` <br> `│ Teacher Camera    │ Student 1 Camera  │` <br> `└───────────────────┴───────────────────┘` |
-| **AI Assistant Panel** | Teacher-Only Panel | `[ Telemetry ] ─ [ Participation Metrics ] ─ [ Auto-Mute Configs ]` |
-| **Post-Class Report** | Class Diagnostics | `[ Summary Text Area ] -> [ Generated MCQs ] -> [ Export PDF Button ]` |
+### 1. Login & Registration
+![Login Screen](screenshots/login.png)
+
+### 2. Classroom Lobby (Dashboard)
+![Lobby Screen](screenshots/lobby.png)
+
+### 3. Classroom Meeting Room (WebRTC Calling Grid)
+![Meeting Room](screenshots/meeting_room.png)
+
+### 4. Teacher AI Dashboard & Post-Class Report
+![AI Dashboard and Report](screenshots/report.png)
 
 ---
 
